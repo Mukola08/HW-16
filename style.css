@@ -1,0 +1,14 @@
+body {
+    background-color: green;
+}
+
+
+.bg-box {
+    content: "";
+   background-image: url(./img/green-png-44873.png), url(./img/lamp-png-34914.png), url(./img/image.png), url(./img/image11.png), url(./img/image12.png);
+   width: 1250px;
+   height: 550px;
+   background-repeat: repeat-x, repeat-x, repeat-y,repeat-y, no-repeat;
+   background-position: bottom, top, left, right, center ;
+  background-size: 110px, 30px, 30px, 30px, 550px;
+}
