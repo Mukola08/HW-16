@@ -1,10 +1,6 @@
-body {
-    background-color: green;
-}
-
-
 .bg-box {
     content: "";
+    background-color: green;
    background-image: url(./img/green-png-44873.png), url(./img/lamp-png-34914.png), url(./img/image.png), url(./img/image11.png), url(./img/image12.png);
    width: 1250px;
    height: 550px;
